@@ -1,2 +1,2 @@
 # Telefon-RehberKayit
-Kişi kaydını tutan veritabını uygulaması
+Telefon kişi kaydını tutan veritabını uygulaması
